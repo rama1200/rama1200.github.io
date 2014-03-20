@@ -5,6 +5,6 @@
 .eduDuratoion {float: right;}
 .eduTitle {float: left; border-bottom: 1px solid;}
 
-.panel-default > .panel-heading :hover{
+.panel-default > .panel-heading:hover{
   background-color: #a6d9ff;
 }
